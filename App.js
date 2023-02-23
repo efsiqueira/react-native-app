@@ -1,7 +1,7 @@
-import HomeScreen from './src/screens/HomeScreen';
+import RootNavigation from './src';
 
 export default function App() {
   return(
-    <HomeScreen />
+    <RootNavigation />
   );
 }
